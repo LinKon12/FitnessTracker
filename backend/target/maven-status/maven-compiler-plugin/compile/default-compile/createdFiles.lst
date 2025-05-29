@@ -1,0 +1,17 @@
+com\fitnesstracker\util\JwtUtil.class
+com\fitnesstracker\repository\CheckInSessionRepository.class
+com\fitnesstracker\controller\GymController.class
+com\fitnesstracker\dto\AuthResponse.class
+com\fitnesstracker\controller\AuthController.class
+com\fitnesstracker\repository\UserRepository.class
+com\fitnesstracker\service\UserService.class
+com\fitnesstracker\model\CheckInSession.class
+com\fitnesstracker\FitnessTrackerApplication.class
+com\fitnesstracker\repository\GymRepository.class
+com\fitnesstracker\dto\AuthRequest.class
+com\fitnesstracker\service\UserDetailsServiceImpl.class
+com\fitnesstracker\model\User.class
+com\fitnesstracker\config\SecurityConfig.class
+com\fitnesstracker\util\JwtAuthFilter.class
+com\fitnesstracker\controller\SessionController.class
+com\fitnesstracker\model\Gym.class
